@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm NITHIN JOJI 👋</h1>
 
 <p align="center">
-  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+  <img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://i.pinimg.com/originals/16/fe/7e/16fe7e7fb6eebb3087b6dc418748ee56.gif)">
 </p>
 
 <h3 align="center">Passionate MERN Stack Self Taught Developer</h3>
