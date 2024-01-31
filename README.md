@@ -1,4 +1,6 @@
-<h1 align="center">Hi there, I'm NITHIN JOJI 👋</h1>
+<h1 align="center" style="overflow: hidden; white-space: nowrap; border-right: .15em solid orange;">
+ Hi there, I'm NITHIN JOJI 👋
+</h1>
 
 <p align="center">
  <img align="right" alt="Coding" width="400"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
